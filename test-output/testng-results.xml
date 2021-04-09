@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-09T12:38:11 IST" name="Default suite" finished-at="2021-04-09T12:38:17 IST" duration-ms="5866">
+    <groups>
+    </groups>
+    <test started-at="2021-04-09T12:38:11 IST" name="Default test" finished-at="2021-04-09T12:38:17 IST" duration-ms="5866">
+      <class name="QualiTest.Twitterproject.Twitter">
+        <test-method signature="getTweet()[pri:0, instance:QualiTest.Twitterproject.Twitter@180da663]" started-at="2021-04-09T12:38:11 IST" name="getTweet" finished-at="2021-04-09T12:38:17 IST" duration-ms="5779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTweet -->
+      </class> <!-- QualiTest.Twitterproject.Twitter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

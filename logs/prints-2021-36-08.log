@@ -1,0 +1,4 @@
+10:36:32.448 [main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+10:36:32.676 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@4735d6e5
+10:36:32.676 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+10:36:33.683 [main] INFO  QualiTest.Twitterproject.Twitter1 - [1380012291517685760]
